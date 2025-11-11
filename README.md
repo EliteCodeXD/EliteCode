@@ -1,28 +1,28 @@
-# 👋 Hey! / Привет!
+# 👋 Hi there! / Привет!
 
-I'm a backend developer focused on building Telegram bots using Python.  
-I enjoy writing clean code, integrating APIs, and deploying bots into production.  
+I'm a backend developer passionate about creating Telegram bots with Python.  
+I enjoy building reliable systems, connecting APIs, and bringing projects to life in production.  
 
-Я бэкенд-разработчик, специализирующийся на создании Telegram-ботов на Python.  
-Люблю писать чистый код, интегрировать внешние API и выкатывать проекты в прод.  
+Я backend-разработчик, занимаюсь созданием Telegram-ботов на Python.  
+Люблю продуманный код, интеграции с внешними сервисами и доведение проектов до результата.  
 
-Accepting orders — see the Contacts section.  
-Принимаю заказы, см. раздел контакты.  
+💼 Open for collaborations and freelance projects.  
+Готов к сотрудничеству и выполнению заказов — см. контакты ниже.  
 
 ---
 
-## 🛠 Tech Stack / Стек
+##  🌐 Tech Stack / Технологии
 
 - **Language / Язык:** Python 3.11  
 - **Telegram Framework:** aiogram  
 - **Web:** FastAPI, aiohttp  
-- **Databases / БД:** PostgreSQL, SQLite3  
-- **Tools:** gspread, pydrive, OpenAI API, docxtpl,
-- 
+- **Databases / Базы данных:** PostgreSQL, SQLite3  
+- **Tools / Инструменты:** gspread, pydrive, OpenAI API, docxtpl  
+
 ---
 
-## 🚀 Currently learning / Сейчас изучаю
-Frontend development (HTML, CSS, JavaScript — frontend/backend basics)
+## 🚀 Learning now / Сейчас изучаю
+Frontend basics — HTML, CSS, JavaScript  
 
 ---
 
